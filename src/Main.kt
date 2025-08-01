@@ -1,3 +1,4 @@
+//link del video explicando:
 fun main() {
     val hamburguesa = Hamburguesa("Hamburguesa con queso", 35.0)
     val pizza = Pizza("Pizza de pepperoni", 50.0)
