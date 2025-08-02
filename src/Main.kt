@@ -1,7 +1,5 @@
 
-// link del video explicando el código:
-
-
+// link del video explicando el código: https://youtu.be/_fZkbjn6edo
 
 fun main() {
     val hamburguesa = Hamburguesa("Hamburguesa con queso", 35.0)
